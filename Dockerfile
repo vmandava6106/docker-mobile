@@ -1,4 +1,4 @@
-FROM sonarmobile:swiftsonar
+FROM vmandava6106/sonarmobile:swiftsonar
 
 # Download and install sonar plugins
 
